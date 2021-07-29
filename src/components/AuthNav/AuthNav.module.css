@@ -1,0 +1,18 @@
+.AuthNavList {
+  display: flex;
+}
+
+.listItem {
+  list-style: none;
+}
+
+.listItem:first-child {
+  margin-right: 20px;
+}
+
+.listItemLink {
+  color:#000;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}

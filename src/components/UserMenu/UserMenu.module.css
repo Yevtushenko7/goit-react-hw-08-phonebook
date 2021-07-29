@@ -1,0 +1,30 @@
+.userMenuContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.userName {
+  font-size: 20px;
+  font-weight: 700;
+  margin-right: 20px;
+}
+
+.btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 8px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+ .avatar {
+    margin-right: 5px;
+    border-radius: 50%;
+  }
+

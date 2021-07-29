@@ -1,0 +1,14 @@
+.navLink {
+  color: #000;
+  font-size: 26px;
+  text-decoration: none;
+}
+
+.navLink:first-child {
+  margin-right: 20px;
+}
+
+.navLinkActive {
+  color: #f50014;
+  text-decoration: underline;
+}

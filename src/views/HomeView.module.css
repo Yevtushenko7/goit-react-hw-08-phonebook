@@ -1,0 +1,19 @@
+.Hero {
+  width: auto;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.HeroText {
+  font-size: 50px;
+  color: red;
+  text-align: center;
+  margin-block-start: 0;
+  padding-top: 20px;
+}
+
+.h1 {
+  margin: 0;
+  margin-block-start: 0;
+}
